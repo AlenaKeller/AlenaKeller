@@ -39,7 +39,7 @@ I'm a **Data Engineer** with expertise in the administration of working with dat
 ![Tilda](https://img.shields.io/badge/Tilda-FF445A?style=for-the-badge)
 ---
 ## **📊 GitHub Stats**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlenaKeller&show_icons=true&theme=radical&hide_border=true)  
+![Streak Stats](https://streak-stats.demolab.com/?user=AlenaKeller&theme=monokai&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlenaKeller&layout=compact&theme=radical&hide_border=true)  
 ---
 ## **💌 Let’s Connect!**   
