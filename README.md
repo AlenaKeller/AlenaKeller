@@ -41,6 +41,7 @@ I'm a **Data Engineer** with expertise in the administration of working with dat
 ## **📊 GitHub Stats**  
 ![Streak Stats](https://streak-stats.demolab.com/?user=AlenaKeller&theme=monokai&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlenaKeller&layout=compact&theme=radical&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlenaKeller&layout=compact&theme=radical&hide_border=true)
 ---
 ## **💌 Let’s Connect!**    
 - 📱 **Telegram** 
